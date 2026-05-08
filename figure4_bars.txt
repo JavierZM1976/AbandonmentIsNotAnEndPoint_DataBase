@@ -1,0 +1,16 @@
+Variable	Function1	Function2
+Shannon index	0.072	0.133
+Herbaceous biomass	0.008	-0.152
+Woody vegetation cover	-0.149	0.31
+Ash content	-0.007	-0.027
+Crude protein	-0.018	0.171
+Relative feed value	-0.022	0.002
+SOC Concentration	0.087	-0.122
+SOC Stock	0.001	0.205
+N Concentration	-0.106	0.076
+SOC:N ratio	0.094	0.109
+Total N	-0.063	-0.048
+Bulk density	0.019	0.278
+Erosion rate	0.043	0.172
+Runoff coefficient	0.038	0.164
+Soil Humidity	0.011	0.094
